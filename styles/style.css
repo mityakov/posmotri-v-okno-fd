@@ -120,7 +120,7 @@ ol {
   overflow: hidden;
   inline-size: 100%;
   width: inherit;
-  object-fit: cover; 
+  object-fit: cover;
   object-position: center;
 }
 
